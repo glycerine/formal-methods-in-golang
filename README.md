@@ -22,7 +22,7 @@ GoIvy contains a port to Go of the C hardware verification suite ABC.
 
 https://github.com/glycerine/ivy/tree/master/pyivy/ivy/submodules/abc/abcgo
 
-original: https://github.com/berkeley-abc/abc https://github.com/berkeley-abc/abc-zz 
+original: https://people.eecs.berkeley.edu/~alanmi/abc/starting.htm https://github.com/berkeley-abc/abc https://github.com/berkeley-abc/abc-zz
 
 # Apalache-Go
 
