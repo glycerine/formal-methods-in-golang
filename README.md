@@ -16,6 +16,14 @@ GoIvy is a port of the Ivy formal verfication language by Ken McMillan and Oded 
 https://github.com/glycerine/ivy
 
 
+# ABC in Go
+
+GoIvy contains a port to Go of the C hardware verification suite ABC.
+
+https://github.com/glycerine/ivy/tree/master/pyivy/ivy/submodules/abc/abcgo
+
+original: https://github.com/berkeley-abc/abc https://github.com/berkeley-abc/abc-zz 
+
 # Apalache-Go
 
 Apalache-Go is a port to Go of the symbolic model checker Apalache.
